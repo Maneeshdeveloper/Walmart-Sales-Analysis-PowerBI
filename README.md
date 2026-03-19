@@ -110,25 +110,3 @@ Integration with real-time data
 
 Customer segmentation using ML
 
-Business Questions Answered
-Branch and City Insights
-Which branch generated the highest total sales?
-What are the top-performing branches based on sales volume?
-Which city recorded the highest total transaction amount?
-How is the performance distributed across Walmart branches and their respective cities?
-Category and Product Performance
-Which product category contributes the most to total sales?
-What is the distribution of quantity sold by category (e.g., fashion, electronics)?
-How do product categories compare in terms of profit and transaction volume?
-Time-Based Analysis
-What are the sales trends month-by-month across multiple years?
-Which month records the highest and lowest sales?
-How have sales and profits varied over the years (2019–2023)?
-What is the predicted sales trend for the next 12 months?
-Customer Behavior
-Which payment method is most commonly used by customers?
-What is the distribution of sales by payment method?
-How does the average customer rating vary by branch?
-Geo-Based Sales Visualization
-What does the global distribution of transaction volume look like?
-Which geographic regions contribute the most to overall sales?
